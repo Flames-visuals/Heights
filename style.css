@@ -1,0 +1,15 @@
+.pics{
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+}
+
+.divided-content-center{
+  background-color: #ffffff;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  transform: translate(-50%, -50%)
+  }
